@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+button:hover {
+  cursor: pointer;
+  color: blue;
+}
+button {
+  color: white;
+  background-color: black;
+  border-radius: 3px;
+  text-align: center;
+  width: 50px;
+}
+form label {
+  display: block;
+}
+div input {
+  border-top-right-radius: ;
+  padding: auto;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+body {
+  background-color: #ccc;
+}
